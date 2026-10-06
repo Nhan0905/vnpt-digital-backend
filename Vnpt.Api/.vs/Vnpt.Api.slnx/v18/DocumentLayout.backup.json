@@ -1,0 +1,1109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nh\u00E2n\\Vnpt.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\supportticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\supportticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\adminupdateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\adminupdateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\orderdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\orderdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\vnpt.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\vnpt.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\approvallog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\approvallog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\orderdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\orderdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iorderdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iorderdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\controllers\\orderapprovalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\controllers\\orderapprovalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iapprovallogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iapprovallogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\approvalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\approvalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\approvallogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\approvallogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\approvalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\approvalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\orderdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\orderdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\services\\orderdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\services\\orderdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\iorderdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\iorderdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\dtos\\uploaddocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\dtos\\uploaddocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|d:\\nh\u00E2n\\vnpt.api\\webapplication1\\vnpt.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBD308FC-BDAD-B015-05B0-51D4E05D9C61}|WebApplication1\\Vnpt.Api.csproj|solutionrelative:webapplication1\\vnpt.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\rejectorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\rejectorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A702893-0B47-7E71-9676-89779DFFAB42}|Vnpt.Application\\Vnpt.Application.csproj|solutionrelative:vnpt.application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\vnpt.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\vnpt.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E13411-832F-E2BD-F9AD-DA098ECB1425}|Vnpt.Domain\\Vnpt.Domain.csproj|solutionrelative:vnpt.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|d:\\nh\u00E2n\\vnpt.api\\vnpt.persistence\\migrations\\20260917100001_addsupporttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2845644-1343-47FF-368E-3ED9FA313293}|Vnpt.Persistence\\Vnpt.Persistence.csproj|solutionrelative:vnpt.persistence\\migrations\\20260917100001_addsupporttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:05:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:10:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\Product.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Product.cs",
+              "RelativeToolTip": "Vnpt.Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:31:58.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvy4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:50:36.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:36:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:39:08.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv18AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:45:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:12:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:21:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupportTicket.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\SupportTicket.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\SupportTicket.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\SupportTicket.cs",
+              "RelativeToolTip": "Vnpt.Domain\\SupportTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:58:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupportTicketsController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\SupportTicketsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SupportTicketsController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\SupportTicketsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SupportTicketsController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswGoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:00:49.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20260917100001_AddSupportTickets.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Migrations\\20260917100001_AddSupportTickets.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Migrations\\20260917100001_AddSupportTickets.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Migrations\\20260917100001_AddSupportTickets.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Migrations\\20260917100001_AddSupportTickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T10:00:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:50:43.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:06:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminUpdateUserDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\AdminUpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\AdminUpdateUserDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\AdminUpdateUserDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\AdminUpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:24:17.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:24:46.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:02:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\User.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\User.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\User.cs",
+              "RelativeToolTip": "Vnpt.Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:35:27.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:41:29.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:34:52.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\Customer.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Customer.cs",
+              "RelativeToolTip": "Vnpt.Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:30:38.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:31:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:11:01.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:19:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDocumentsController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrderDocumentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OrderDocumentsController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrderDocumentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OrderDocumentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:20:42.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:19:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADgvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:23:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoresController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwD0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T02:59:32.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Store.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\Store.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Store.cs",
+              "RelativeToolTip": "Vnpt.Domain\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T02:55:38.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:18:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:26:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:20:09.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwIAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:27:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:20:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Vnpt.Application.csproj",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Vnpt.Application.csproj",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Vnpt.Application.csproj",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Vnpt.Application.csproj",
+              "RelativeToolTip": "Vnpt.Application\\Vnpt.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T02:40:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApprovalLog.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\ApprovalLog.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\ApprovalLog.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\ApprovalLog.cs",
+              "RelativeToolTip": "Vnpt.Domain\\ApprovalLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:36:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDocument.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\OrderDocument.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\OrderDocument.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\OrderDocument.cs",
+              "RelativeToolTip": "Vnpt.Domain\\OrderDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:34:07.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\Order.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\Order.cs",
+              "RelativeToolTip": "Vnpt.Domain\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:33:19.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:42:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T03:37:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:11:35.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IOrderDocumentService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderDocumentService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IOrderDocumentService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderDocumentService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IOrderDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:11:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:17:22.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DashboardStatsDto.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\DashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\DashboardStatsDto.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\DashboardStatsDto.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\DashboardStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:16:17.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDashboardRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IDashboardRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IDashboardRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IDashboardRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:17:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IExcelService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IExcelService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IExcelService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IExcelService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IExcelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:30:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ExcelService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\ExcelService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ExcelService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\ExcelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:31:15.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\DashboardRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\DashboardRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:18:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderApprovalsController.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrderApprovalsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OrderApprovalsController.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Controllers\\OrderApprovalsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OrderApprovalsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvysAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:06:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IApprovalLogRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IApprovalLogRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IApprovalLogRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IApprovalLogRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IApprovalLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:02:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApprovalService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ApprovalService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\ApprovalService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\ApprovalService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\ApprovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:58:32.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IApprovalService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IApprovalService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IApprovalService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IApprovalService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IApprovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:57:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:25:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApprovalLogRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\ApprovalLogRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\ApprovalLogRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\ApprovalLogRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\ApprovalLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:03:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApprovalRequestDto.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\ApprovalRequestDto.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\ApprovalRequestDto.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\ApprovalRequestDto.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\ApprovalRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:57:08.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T01:53:23.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderDocumentRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\OrderDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\OrderDocumentRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\OrderDocumentRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\OrderDocumentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:10:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderDocumentService.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\OrderDocumentService.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Services\\OrderDocumentService.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Services\\OrderDocumentService.cs",
+              "RelativeToolTip": "Vnpt.Application\\Services\\OrderDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:12:10.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IOrderDocumentRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\IOrderDocumentRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\IOrderDocumentRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\IOrderDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:09:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UploadDocumentDto.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\DTOs\\UploadDocumentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\UploadDocumentDto.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\DTOs\\UploadDocumentDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\UploadDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:56:31.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Vnpt.Api.csproj",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Vnpt.Api.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\Vnpt.Api.csproj",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\WebApplication1\\Vnpt.Api.csproj",
+              "RelativeToolTip": "WebApplication1\\Vnpt.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T08:55:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\PagedResult.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:19:18.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RejectOrderDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\RejectOrderDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\RejectOrderDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\RejectOrderDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\RejectOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:34:46.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Vnpt.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:02:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Application\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Application\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Vnpt.Application\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:38:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Vnpt.Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:45:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Vnpt.Persistence.csproj",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Vnpt.Persistence.csproj",
+              "RelativeDocumentMoniker": "Vnpt.Persistence\\Vnpt.Persistence.csproj",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Persistence\\Vnpt.Persistence.csproj",
+              "RelativeToolTip": "Vnpt.Persistence\\Vnpt.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T01:37:08.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Vnpt.Domain\\BaseEntity.cs",
+              "ToolTip": "D:\\Nh\u00E2n\\Vnpt.Api\\Vnpt.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Vnpt.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:29:27.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

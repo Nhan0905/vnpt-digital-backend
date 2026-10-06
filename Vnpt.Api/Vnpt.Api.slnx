@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Vnpt.Application/Vnpt.Application.csproj" />
+  <Project Path="Vnpt.Domain/Vnpt.Domain.csproj" />
+  <Project Path="Vnpt.Infrastructure/Vnpt.Infrastructure.csproj" />
+  <Project Path="Vnpt.Persistence/Vnpt.Persistence.csproj" />
+  <Project Path="WebApplication1/Vnpt.Api.csproj" />
+</Solution>

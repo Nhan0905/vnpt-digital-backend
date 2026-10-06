@@ -1,0 +1,7 @@
+# .NET Core
+bin/
+obj/
+appsettings.Development.json
+*.user
+*.suo
+.vscode/
